@@ -1,3 +1,4 @@
 # Just-Blog-It
-A simple Blog site to create your workspace as a Blog space
+A simple Blog site to create your workspace as a Blog space.
+<br>
 Author - Khushal Acharya
